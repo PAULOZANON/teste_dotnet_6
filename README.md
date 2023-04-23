@@ -1,0 +1,1 @@
+# teste_dotnet_6
